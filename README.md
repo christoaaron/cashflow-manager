@@ -59,34 +59,33 @@ Provides a menu for interacting with the app, allowing users to add transactions
 
 ```text
 Cashflow Manager App
-1. Buat Transaksi
-2. Tunjukkan Transaksi
-3. Tunjukkan Total Transaksi
-4. Matikan Script
-Pilih menu: 1
-Masukkan jenis transaksi (debit/kredit): kredit
-Masukkan jumlah transaksi: 1000
-Transaksi kredit sebesar 1000.0 berhasil ditambahkan.
+1. Add Transaction
+2. Show Transactions
+3. Show Total Transactions
+4. Exit
+Choose an option: 1
+Enter transaction type (debit/credit): credit
+Enter transaction amount: 1000
+Transaction credit of 1000.0 added successfully.
 ```
 
 ```text
 Cashflow Manager App
-1. Buat Transaksi
-2. Tunjukkan Transaksi
-3. Tunjukkan Total Transaksi
-4. Matikan Script
-Pilih menu: 2
-Daftar Transaksi:
-Jenis: kredit, Jumlah: 1000.0, Waktu: 2024-07-15 10:12:14.446366
+1. Add Transaction
+2. Show Transactions
+3. Show Total Transactions
+4. Exit
+Choose an option: 2
+Transactions List:
+Type: credit, Amount: 1000.0, Time: 2024-07-15 10:12:14.446366
 ```
 
 ```text
 Cashflow Manager App
-1. Buat Transaksi
-2. Tunjukkan Transaksi
-3. Tunjukkan Total Transaksi
-4. Matikan Script
-Pilih menu: 3
-Pilih menu: 3
-Total Transaksi: 1000.0
+1. Add Transaction
+2. Show Transactions
+3. Show Total Transactions
+4. Exit
+Choose an option: 3
+Total Transactions: 1000.0
 ```
